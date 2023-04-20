@@ -1,11 +1,11 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim. I'm currently a junior student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images using AI models and improving service/interface design with Human-AI interaction (HAI). 
+👋 Hello, I'm Seonuk Kim. I'm currently a junior student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images using AI models and improving interface design with Human-AI interaction (HAI). 
 
 I have a lot of interest in various fields, but mainly focus on below topics.
 
 - 🖥️ **STEM:** Generative model, Data science, Optimization 
-- 📐 **Design:** Human-AI Interaction (HAI), Human-Computer Interaction (HCI), User Experience/Interface (UX/UI)
+- 📐 **Design:** Human-AI Interaction (HAI), Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
 - 🎨 **Culture:** Manga, Manhwa, Webtoon, Anime
 
 #### Contact
