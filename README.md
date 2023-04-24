@@ -26,8 +26,8 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### GitHub Stats
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=5eonukkim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=5eonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](github-readme-stats-blue-rho.vercel.app/api?username=5eonukkim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](github-readme-stats-blue-rho.vercel.app/api?username=5eonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-light-mode-only)
 
 #### Others
 ##### 🏆 Honors and Awards
