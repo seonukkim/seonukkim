@@ -16,8 +16,8 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:d02reams@unist.ac.kr)](mailto:d02reams@unist.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:d02reams@gmail.com)](mailto:d02reams@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/5eonukkim)](https://github.com/5eonukkim)
-[![Web Badge](https://img.shields.io/badge/-Blog_Renewering_Now-FF4088?style=flat-square&logo=hugo&logoColor=white&link=5eonukkim.github.io/)](https://5eonukkim.github.io/)
-[![Notion Badge](https://img.shields.io/badge/-Notion-F7A81B?style=flat-square&logo=notion&logoColor=white&link=5eonukkim.notion.site/)](https://5eonukkim.notion.site/)
+[![Web Badge](https://img.shields.io/badge/-Blog_Renewering_Now-FF4088?style=flat-square&logo=hugo&logoColor=white&link=5eonukkim.github.io/)](https://seonukkim.github.io/)
+[![Notion Badge](https://img.shields.io/badge/-Notion-F7A81B?style=flat-square&logo=notion&logoColor=white&link=5eonukkim.notion.site/)](https://seonukkim.notion.site/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim-870a30206/)](https://linkedin.com/in/seonuk-kim-870a30206/)
 
 #### Problem-Solving Stats
@@ -26,8 +26,8 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### GitHub Stats
 
-[![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=5eonukkim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=5eonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/5eonukkim/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=seonukkim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/seonukkim/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=seonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/seonukkim/github-readme-stats#gh-light-mode-only)
 
 #### Others
 ##### 🏆 Honors and Awards
