@@ -10,7 +10,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### Contact
 
-- Email: [seonuk.kim@thingsflow.com](mailto:seonuk.kim@thingsflow.com) / [d02reams@unist.ac.kr](mailto:d02reams@unist.ac.kr) / [d02reams@gmail.com](mailto:d02reams@gmail.com)
+- Email: [seonuk.kim@thingsflow.com](mailto:seonuk.kim@thingsflow.com) / [d02reams@unist.ac.kr](mailto:d02reams@unist.ac.kr) / [seonukkima@gmail.com](mailto:seonukkima@gmail.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5eonukkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:d02reams@unist.ac.kr)](mailto:d02reams@unist.ac.kr)
