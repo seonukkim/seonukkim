@@ -4,7 +4,7 @@
 
 I have a lot of interest in various fields, but mainly focus on below topics.
 
-- 🖥️ **STEM:** Generative model, Data science, Optimization 
+- 🖥️ **STEM:** Generative model, Data Science, Optimization 
 - 📐 **Design:** Human-AI Interaction (HAI), Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
 - 🎨 **Culture:** Manga, Manhwa, Webtoon, Anime
 
@@ -20,7 +20,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![Notion Badge](https://img.shields.io/badge/-Notion-F7A81B?style=flat-square&logo=notion&logoColor=white&link=5eonukkim.notion.site/)](https://seonukkim.notion.site/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim/)](https://linkedin.com/in/seonuk-kim/)
 
-#### Problem-Solving Stats
+<!--#### Problem-Solving Stats
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=d02reams)](https://solved.ac/d02reams)
 
@@ -29,12 +29,12 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![GitHub stats-Dark](https://github-readme-stats-blue-rho.vercel.app/api?username=seonukkim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/seonukkim/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=seonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/seonukkim/github-readme-stats#gh-light-mode-only)
 
-#### Others
+#### Others-->
 ##### 🏆 Honors and Awards
+- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), (Jun. 2023)
+- Gold, 3nd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition, (Jan. 2024)
 - Gold, 2nd place of 43 teams ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition, (Jan. 2023)
-  - Team Leader. Business customers classification used Convolution Neural Network (CNN) and advertise decision-making.
 - Silver, 4nd place of 38 teams ($750 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
-  - Team Leader. Predict shale gas production used AutoML, such as PyCaret, and purchase decision-making.
 
 <!--
 **5eonukkim/5eonukkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
