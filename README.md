@@ -30,7 +30,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### Others-->
 ##### 🏆 Honors and Awards
-- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), (Jun. 2023)
+- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF) (Jun. 2023)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
 - Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
