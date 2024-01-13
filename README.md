@@ -16,7 +16,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:d02reams@unist.ac.kr)](mailto:d02reams@unist.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seonukkima@gmail.com)](mailto:seonukkima@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/seonukkim)](https://github.com/seonukkim)
-[![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
+[![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=jekyll&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim/)](https://linkedin.com/in/seonuk-kim/)
 
 <!--#### Problem-Solving Stats
