@@ -6,7 +6,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 - 🖥️ **STEM:** Generative model, Data Science, Optimization 
 - 📐 **Design:** Human-AI Interaction (HAI), Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
-- 🎨 **Culture:** Manga, Manhwa, Webtoon, Anime
+- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Novel
 
 #### Contact
 
@@ -15,9 +15,8 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5eonukkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:d02reams@unist.ac.kr)](mailto:d02reams@unist.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seonukkima@gmail.com)](mailto:seonukkima@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/5eonukkim)](https://github.com/seonukkim)
-[![Web Badge](https://img.shields.io/badge/-Blog_Renewering_Now-FF4088?style=flat-square&logo=hugo&logoColor=white&link=5eonukkim.github.io/)](https://seonukkim.github.io/)
-[![Notion Badge](https://img.shields.io/badge/-Notion-F7A81B?style=flat-square&logo=notion&logoColor=white&link=5eonukkim.notion.site/)](https://seonukkim.notion.site/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/seonukkim)](https://github.com/seonukkim)
+[![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=hugo&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim/)](https://linkedin.com/in/seonuk-kim/)
 
 <!--#### Problem-Solving Stats
@@ -32,9 +31,9 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 #### Others-->
 ##### 🏆 Honors and Awards
 - Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF), (Jun. 2023)
-- Gold, 3nd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition, (Jan. 2024)
-- Gold, 2nd place of 43 teams ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition, (Jan. 2023)
-- Silver, 4nd place of 38 teams ($750 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
+- Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
+- Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
+- Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
 
 <!--
 **5eonukkim/5eonukkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
