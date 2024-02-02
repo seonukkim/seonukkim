@@ -18,6 +18,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/seonukkim)](https://github.com/seonukkim)
 [![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=jekyll&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim/)](https://linkedin.com/in/seonuk-kim/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/seonukkim)
 
 <!--#### Problem-Solving Stats
 
@@ -30,7 +31,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### Others-->
 ##### 🏆 Honors and Awards
-- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF) (Jun. 2023)
+- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
 - Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
