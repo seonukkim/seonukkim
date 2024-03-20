@@ -30,7 +30,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 [![GitHub stats-Light](https://github-readme-stats-blue-rho.vercel.app/api?username=seonukkim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/seonukkim/github-readme-stats#gh-light-mode-only)
 
 #### Others-->
-##### 🏆 Honors and Awards
+##### 🏆 Selected Honors and Awards
 - Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
