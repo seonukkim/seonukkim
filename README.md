@@ -1,6 +1,6 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim. I'm currently a machine learning scientist at Thingsflow, and also an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. 
+👋 Hello, I'm Seonuk Kim. I'm currently a machine learning scientist at thingsflow, and also an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. 
 
 I have a lot of interest in various fields, but mainly focus on below topics.
 
