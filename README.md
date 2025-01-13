@@ -31,13 +31,15 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 
 #### Others-->
 ##### 🏆 Selected Honors and Awards
-- Presidential Science Scholarship, Korea Student Aid Foundation (KOSAF)
+- Presidential Science Scholarship, President of Korea, Ministry of Science and ICT & Korea Student Aid Foundation (KOSAF)
+- Talent Award of Korea, Deputy Prime Minister of Korea, Ministry of Education & Korea Student Aid Foundation (KOSAF)
+- Gold, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI & Data Science Competition (Jan. 2024)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
 - Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
 
 <!--
-**5eonukkim/5eonukkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seonukkim/seonukkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
