@@ -1,12 +1,12 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim. I'm currently a MLOps enginner at LionRocket, and also an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. 
+👋 Hello, I'm Seonuk Kim. I'm currently an MLOps engineer at LionRocket, and also an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. 
 
-I have a lot of interest in various fields, but mainly focus on below topics.
+I have a lot of interest in different fields, but mainly focus on followed topics.
 
+- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Novel
 - 🖥️ **STEM:** Generative model, Data Science, Optimization 
 - 📐 **Design:** Human-Centered AI, Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
-- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Novel
 
 #### Contact
 
@@ -33,7 +33,7 @@ I have a lot of interest in various fields, but mainly focus on below topics.
 ##### 🏆 Selected Honors and Awards
 - Presidential Science Scholarship, President of Korea, Ministry of Science and ICT & Korea Student Aid Foundation (KOSAF)
 - Talent Award of Korea, Deputy Prime Minister of Korea, Ministry of Education & Korea Student Aid Foundation (KOSAF)
-- Gold, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI & Data Science Competition (Jan. 2024)
+- Gold, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI & Data Science Competition (Jan. 2025)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
 - Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
