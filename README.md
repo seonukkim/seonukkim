@@ -15,7 +15,6 @@ I have a lot of interest in different fields, but mainly focus on followed topic
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5eonukkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
-[![Email Badge](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:d02reams@unist.ac.kr)](mailto:d02reams@unist.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seonukkima@gmail.com)](mailto:seonukkima@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/seonukkim)](https://github.com/seonukkim)
 [![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=jekyll&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
