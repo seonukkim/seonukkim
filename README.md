@@ -17,7 +17,7 @@ I have a lot of interest in different fields, but mainly focus on followed topic
 -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seonukkima@gmail.com)](mailto:seonukkima@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-FC6D26?style=flat-square&logo=github&logoColor=white&link=github.com/seonukkim)](https://github.com/seonukkim)
-[![Web Badge](https://img.shields.io/badge/-Blog-FF4088?style=flat-square&logo=jekyll&logoColor=white&link=seonukkim.github.io/)](https://seonukkim.github.io/)
+[![Web Badge](https://img.shields.io/badge/-Blog-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://seonukkim.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/seonuk-kim/)](https://linkedin.com/in/seonuk-kim/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/seonukkim)
 
