@@ -1,16 +1,16 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim. I'm currently an MLOps engineer at LionRocket, and also an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. 
+👋 Hello, I'm Seonuk Kim. I'm currently an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. Formerly, I was an MLOps Engineer at LionRocket and a machine learning scientist at thingsflow as an alternative military service.
 
-I have a lot of interest in different fields, but mainly focus on followed topics.
+I have a lot of interest in different fields, but mainly focus on the following topics.
 
-- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Novel
-- 🖥️ **STEM:** Generative model, Data Science, Optimization 
+- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Visual Novel
+- 🖥️ **STEM:** Generative model, Data Science
 - 📐 **Design:** Human-Centered AI, Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
 
 #### Contact
 
-- Email: [seonuk.kim@lionrocket.ai](mailto:seonuk.kim@lionrocket.ai) / [seonuk.kim@unist.ac.kr](mailto:seonuk.kim@unist.ac.kr) / [seonukkima@gmail.com](mailto:seonukkima@gmail.com)
+- Email: [seonuk.kim@unist.ac.kr](mailto:seonuk.kim@unist.ac.kr) / [seonukkima@gmail.com](mailto:seonukkima@gmail.com)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5eonukkim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
