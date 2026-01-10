@@ -34,6 +34,7 @@ I have a lot of interest in different fields, but mainly focus on the following 
 ##### 🏆 Selected Honors and Awards
 - Presidential Science Scholarship, President of Korea, Ministry of Science and ICT & Korea Student Aid Foundation (KOSAF)
 - Talent Award of Korea, Deputy Prime Minister of Korea, Ministry of Education & Korea Student Aid Foundation (KOSAF)
+- Grand, 1st place ($2,300 as awards), 5th KAIST-POSTECH-UNIST AI & Data Science Competition (Jan. 2026)
 - Gold, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI & Data Science Competition (Jan. 2025)
 - Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
 - Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
