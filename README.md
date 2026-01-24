@@ -1,11 +1,11 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim. I'm currently an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests are generating anime images with Human-Centered AI and improving UX/UI design. Formerly, I was an MLOps Engineer at LionRocket and a machine learning scientist at thingsflow as an alternative military service.
+👋 Hello, I'm Seonuk Kim. I'm currently an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), and double majoring in *Industrial Engineering* and *Design*. My research interests focus on improving labor-intensive comic and webtoon creation processes by designing human-centered AI systems and intuitive UX/UI for AI-assisted creativity support tools (CSTs). Formerly, I was an MLOps Engineer at LionRocket and a machine learning scientist at thingsflow as an alternative military service.
 
 I have a lot of interest in different fields, but mainly focus on the following topics.
 
-- 🎨 **Content:** Manga, Manhwa, Webtoon, Anime, Visual Novel
-- 🖥️ **STEM:** Generative model, Data Science
+- 🎨 **Graphic Narratives:** Manga, Manhwa, Webtoon, Anime, Visual Novel
+- 🖥️ **AI & Data:** Image Generation, Data Science, Multimodal
 - 📐 **Design:** Human-Centered AI, Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
 
 #### Contact
@@ -32,13 +32,14 @@ I have a lot of interest in different fields, but mainly focus on the following 
 
 #### Others-->
 ##### 🏆 Selected Honors and Awards
-- Presidential Science Scholarship, President of Korea, Ministry of Science and ICT & Korea Student Aid Foundation (KOSAF)
-- Talent Award of Korea, Deputy Prime Minister of Korea, Ministry of Education & Korea Student Aid Foundation (KOSAF)
-- Grand, 1st place ($2,300 as awards), 5th KAIST-POSTECH-UNIST AI & Data Science Competition (Jan. 2026)
-- Gold, 2nd place ($1,500 as awards), 4th UNIST-KAIST-POSTECH AI & Data Science Competition (Jan. 2025)
-- Gold, 3rd place ($1,500 as awards), 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024)
-- Gold, 2nd place ($1,500 as awards), 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023)
-- Silver, 4th place ($800 as awards), 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022)
+- National Presidential Science Scholarship, President of Korea <!-- , Ministry of Science and ICT & Korea Student Aid Foundation (KOSAF) -->
+- Talent Award of Korea, Deputy Prime Minister of Korea <!--, Ministry of Education & Korea Student Aid Foundation (KOSAF) -->
+- UNIST-KAIST-POSTECH AI & Data Science Competiton
+  - Grand Prize, 1st Place - KRW 3.0M (≈USD 2.1K) as awards (Jan. 2026) <!--, 5th KAIST-POSTECH-UNIST AI&Data Science Competition (Jan. 2026) -->
+  - Gold Prize, 2nd Place - KRW 2.0M (≈USD 1.4K) as awards (Jan. 2025) <!--, 4th UNIST-KAIST-POSTECH AI&Data Science Competition (Jan. 2025) -->
+  - Gold Prize, 3rd Place - KRW 2.0M (≈USD 1.4K) as awards (Jan. 2024) <!--, 3rd POSTECH-UNIST-KAIST Data Science Competition (Jan. 2024) -->
+  - Gold Prize, 2nd Place - KRW 2.0M (≈USD 1.4K) as awards (Jan. 2023) <!--, 2nd KAIST-POSTECH-UNIST Data Science Competition (Jan. 2023) -->
+  - Silver Prize, 4th Place - KRW 1.0M (≈USD 0.7K) as awards (Jan. 2022) <!--, 1st UNIST-POSTECH-KAIST Data Science Competition (Jan. 2022) -->
 
 <!--
 **seonukkim/seonukkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
