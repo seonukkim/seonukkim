@@ -5,7 +5,7 @@
 I have a lot of interest in different fields, but mainly focus on the following topics.
 
 - 🎨 **Graphic Narratives:** Manga, Manhwa, Webtoon, Anime, Visual Novel
-- 🖥️ **AI & Data:** Image Generation, Data Science, Multimodal
+- 🖥️ **AI & Data:** Image Generation, Data Science, Multimodal AI Model
 - 📐 **Design:** Human-Centered AI, Human-Computer Interaction (HCI), User Experience / Interface (UX/UI) Design
 
 #### Contact
