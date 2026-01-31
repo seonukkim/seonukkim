@@ -1,6 +1,6 @@
 ### Seonuk Kim
 
-👋 Hello, I'm Seonuk Kim, an undergraduate student at Ulsan National Institute of Science and Technology (UNIST), I'm currently double majoring in *Industrial Engineering* and *Design*. My research interests focus on improving labor-intensive comics and webtoon creation processes by designing human-centered AI and intuitive UX/UI for creativity support tools (CSTs). Formerly, I was an MLOps Engineer at LionRocket and a Machine Learning Scientist at thingsflow as an alternative military service.
+👋 Hello, I'm Seonuk Kim, an undergraduate student at Ulsan National Institute of Science and Technology (UNIST). I'm currently double majoring in *Industrial Engineering* and *Design*. My research interests focus on improving labor-intensive comics and webtoon creation processes by designing human-centered AI and intuitive UX/UI for creativity support tools (CSTs). Formerly, I was an MLOps Engineer at LionRocket and a Machine Learning Scientist at thingsflow as an alternative military service.
 
 I have a lot of interest in different fields, but mainly focus on the following topics.
 
